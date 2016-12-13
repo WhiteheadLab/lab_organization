@@ -1,4 +1,4 @@
-level,rack,slot,,Sample,Date,Owner
+level,rack,slot,sub-slot,Sample,Date,Owner
 A,1,11,a,admixture mapping gDNA- CB-1,2016-12-12,RSB
 A,1,11,b,admixture mapping gDNA- CB-2,2016-12-12,RSB
 A,1,11,c,admixture mapping gDNA- CB-3,2016-12-12,RSB
